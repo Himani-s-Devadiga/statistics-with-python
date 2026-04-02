@@ -1,50 +1,89 @@
-📊 Introduction to Statistics
-📌 Basics
-Statistics: Study of data
-Population: Entire group
-Sample: Subset of population
-Sample Size: Number of observations
-Random Sampling: Equal chance for all
-Representative Sample: Reflects population
+# 📊 Introduction to Statistics
 
-📊 Types of Statistics
-Descriptive: Summarizes data
-Inferential: Makes predictions
+## 📌 Overview
+This repository contains fundamental concepts of statistics along with structured notes for quick understanding and revision.
 
-📊 Types of Data
-Categorical
-Nominal, Ordinal
-Numerical
-Discrete, Continuous
+---
 
-📊 Measures of Central Tendency
-Mean
-Median
-Mode
-Weighted Mean
-Trimmed Mean
+## 📚 Basics
+- **Statistics**: Study of data  
+- **Population**: Entire group  
+- **Sample**: Subset of population  
+- **Sample Size**: Number of observations  
+- **Random Sampling**: Equal chance for all  
+- **Representative Sample**: Reflects population  
 
-📊 Measures of Dispersion
-Range
-Variance
-Standard Deviation
-Coefficient of Variation
+---
 
-📊 Frequencies
-Frequency
-Relative Frequency
-Cumulative Frequency
+## 📊 Types of Statistics
+- **Descriptive Statistics**: Summarizes data  
+- **Inferential Statistics**: Makes predictions about population  
 
-📊 Hypothesis Testing
-Null Hypothesis (H₀)
-Alternative Hypothesis (H₁)
+---
 
-✨ What I Learned
-Basics of statistics
-How to summarize and analyze data
-Importance of variability and consistency
+## 📊 Types of Data
 
-🚀 Future Improvements
-Add Python implementations
-Solve numerical problems
-Add data visualization
+### 🔹 Categorical Data
+- **Nominal** (no order)  
+- **Ordinal** (ordered categories)  
+
+### 🔹 Numerical Data
+- **Discrete** (countable values)  
+- **Continuous** (range of values)  
+
+---
+
+## 📊 Measures of Central Tendency
+- **Mean** – Average value  
+- **Median** – Middle value  
+- **Mode** – Most frequent value  
+- **Weighted Mean** – Average with importance (weights)  
+- **Trimmed Mean** – Average after removing extreme values  
+
+---
+
+## 📊 Measures of Dispersion
+- **Range** – Difference between max and min  
+- **Variance** – Spread of data (squared deviations)  
+- **Standard Deviation** – Average spread from mean  
+- **Coefficient of Variation** – Relative variability (consistency)  
+
+---
+
+## 📊 Frequency Concepts
+- **Frequency** – Count of values  
+- **Relative Frequency** – Proportion of total  
+- **Cumulative Frequency** – Running total  
+
+---
+
+## 📊 Hypothesis Testing
+- **Null Hypothesis (H₀)** – No effect or change  
+- **Alternative Hypothesis (H₁)** – There is an effect or change  
+
+---
+
+## ✨ What I Learned
+- Understanding basic statistical concepts  
+- Summarizing and analyzing data  
+- Importance of variability and consistency  
+
+---
+
+## 🚀 Future Improvements
+- Add Python implementations  
+- Solve numerical problems  
+- Include data visualizations  
+
+---
+
+## 🛠️ Tools (Upcoming)
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+
+---
+
+## 📌 Author
+Created as part of learning and practicing statistics concepts.
