@@ -1,2 +1,2 @@
-# statistics-with-python
+# Statistics-with-python
  Statistical concepts implemented using Python
